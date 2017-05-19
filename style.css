@@ -1,4 +1,6 @@
-h1{font-size: 30px;}
+h1{font-size: 30px;
+   color:white;
+}
 body{
    background-image: url("1.jpg");
 }
